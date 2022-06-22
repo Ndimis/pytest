@@ -32,7 +32,7 @@ label_subtitle = tkinter.Label(frame, text="Salut à tous c'est Maury", font=("C
 label_subtitle.pack()
 
 #ajouter un premier bouton
-th_button = tkinter.Button(frame, text="Open YouTube", font=("Courrier", 40), bg='white', fg='#41B77F', command=open_youtube)
+th_button = tkinter.Button(frame, text="Ouvrir YouTube", font=("Courrier", 40), bg='white', fg='#41B77F', command=open_youtube)
 th_button.pack(pady='25', fill='x') 
 
 #ajouter le frame

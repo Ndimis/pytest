@@ -14,7 +14,7 @@ def open_youtube():
 window = tkinter.Tk()
 
 #personnaliser la fenetre
-window.title("My Application")
+window.title("Mon Application")
 window.geometry("720x480")
 window.minsize(480, 360)
 window.iconbitmap("prh.ico")
